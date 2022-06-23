@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: table;
+  background-color: mediumslateblue;
+}
+.wrapper {
+  background-color: azure;
+  float: left;
+  width: 30%;
+  margin-left: 37px;
+  margin-top: 10px;
+}
+.wrapper img {
+  height: 300px;
+}
